@@ -1,4 +1,5 @@
 name: Greet Everyone
+
 on: [push]
 
 jobs: 
